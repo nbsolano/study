@@ -13,7 +13,6 @@ public non-sealed class Manager extends Employee{
 
     public Manager(String code,
                    String name,
-
                    String address,
                    int age,
                    double salary,
