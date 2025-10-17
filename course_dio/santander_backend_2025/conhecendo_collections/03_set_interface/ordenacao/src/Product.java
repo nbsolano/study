@@ -1,7 +1,7 @@
 import java.util.Comparator;
 import java.util.Objects;
 
-public class Produto implements Comparable<Produto>{
+public class Product implements Comparable<Produto>{
 
     private final long codigo;
 
@@ -11,7 +11,7 @@ public class Produto implements Comparable<Produto>{
 
     private final int quantidade;
 
-    public Produto(long codigo, String nome, double preco, int quantidade) {
+    public Product(long codigo, String nome, double preco, int quantidade) {
         this.codigo = codigo;
         this.nome = nome;
         this.preco = preco;
@@ -62,7 +62,7 @@ public class Produto implements Comparable<Produto>{
     }
 }
 
-class ComparatorPorPreco implements Comparator<Produto>{
+class ComparatorPreco implements Comparator<Produto>{
 
     @Override
     public int compare(Produto p1, Produto p2) {

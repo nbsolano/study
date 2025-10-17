@@ -1,4 +1,4 @@
-public class Livro {
+public class Livro1 {
 
     private String titulo;
 
@@ -6,7 +6,7 @@ public class Livro {
 
     private int anoPublicacao;
 
-    public Livro(String titulo, String autor, int anoPublicacao) {
+    public void Livro(String titulo, String autor, int anoPublicacao) {
         this.titulo = titulo;
         this.autor = autor;
         this.anoPublicacao = anoPublicacao;

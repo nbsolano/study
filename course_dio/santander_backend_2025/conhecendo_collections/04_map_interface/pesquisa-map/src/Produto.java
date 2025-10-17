@@ -30,4 +30,8 @@ public class Produto {
                 ", quantidade=" + quantidade +
                 '}';
     }
+
+    public long getCodigo() {
+        return 0;
+    }
 }

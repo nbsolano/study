@@ -32,6 +32,10 @@ public class Livro {
                 ", preco=" + preco +
                 '}';
     }
+
+    public int getAnoPublicacao() {
+        return 0;
+    }
 }
 
 class ComparatorPorPreco implements Comparator<Map.Entry<String, Livro>> {
