@@ -6,7 +6,7 @@ Este repositório foi criado para auxiliar na construção e consolidação dos 
 
 ## Estrutura do repositório
 
-- A pasta principal é **bootcamp_Santander**.
+- A pasta principal é **santander_backend_2025**.
 - Dentro dela, há subpastas que correspondem aos módulos do bootcamp.
 - Em cada módulo, as aulas estão organizadas em pastas nomeadas com uma ordem numérica, facilitando o acompanhamento do conteúdo estudado.
 
