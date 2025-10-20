@@ -1,4 +1,32 @@
-# 💻 Study Repository
+# Projetos de Estudo
+
+Este repositório contém diversos projetos de estudo organizados para funcionarem independentemente no IntelliJ IDEA.
+
+## Estrutura de Projetos
+
+- **maratona-java**: Exercícios e exemplos da Maratona Java do DevDojo
+- **picpaysimplificado**: Implementação simplificada do sistema de pagamentos PicPay
+- **todolist**: Aplicação de gerenciamento de tarefas
+- **course_dio/santander_backend_2025**: Projetos do curso Santander Backend 2025
+
+## Como Abrir os Projetos no IntelliJ IDEA
+
+Cada projeto foi configurado para ser aberto independentemente no IntelliJ IDEA:
+
+1. Abra o IntelliJ IDEA
+2. Selecione "Open" ou "Import Project"
+3. Navegue até a pasta do projeto específico (ex: `maratona-java`, `picpaysimplificado`, etc.)
+4. Selecione o arquivo `pom.xml` do projeto
+5. Selecione "Open as Project"
+6. Aguarde o IntelliJ importar as dependências Maven
+
+## Executando Testes Unitários no PicPay Simplificado
+
+Para executar os testes unitários do projeto PicPay Simplificado:
+
+1. Abra o projeto `picpaysimplificado` no IntelliJ
+2. Navegue até a pasta `src/test/java/com/picpaysimplificado/service`
+3. Clique com o botão direito na pasta e selecione "Run Tests in 'service'"
 
 Repositório criado para registrar e organizar meus estudos em tecnologia com foco em back-end.
 
