@@ -1,8 +1,10 @@
-package one.digitalinnovation.gof;
+package java.one.digitalinnovation.gof;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
+
+import java.one.digitalinnovation.gof.SpringBootApplication;
 
 /**
  * Projeto Spring Boot gerado via Spring Initializr.
