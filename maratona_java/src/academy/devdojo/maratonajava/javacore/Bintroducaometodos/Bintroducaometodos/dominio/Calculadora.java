@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.Bintroducaometodos.dominio;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.Bintroducaometodos.dominio;
 
 public class Calculadora {
 
